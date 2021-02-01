@@ -1,7 +1,7 @@
 {
-  "name": "page-test",
-  "version": "1.0.0",
-  "description": "Scan page resource loading results",
+  "name": "scan-page-resource",
+  "version": "0.1.0",
+  "description": "Scan page resources loading results",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +14,10 @@
   ],
   "author": "Eric Lee",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lceric/scan-page-resources.git"
+  },
   "dependencies": {
     "puppeteer-core": "^5.5.0"
   }
