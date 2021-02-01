@@ -1,4 +1,5 @@
-#scan-page-resource
+# scan-page-resource
+
 Scan page resource loading results. Support multiple pages.
 
 ## Usage
