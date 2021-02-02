@@ -1,5 +1,8 @@
 # scan-page-resource
 
+[![view on npm](http://img.shields.io/npm/v/scan-page-resource.svg)](https://www.npmjs.com/package/scan-page-resource)
+[![npm module downloads per month](http://img.shields.io/npm/dm/scan-page-resource.svg)](https://www.npmjs.org/package/scan-page-resource)
+
 Scan page resource loading results. Support multiple pages.
 
 ## Usage
